@@ -42,7 +42,7 @@ A key difference between America and Korea that also widen's the skill gap are U
 However, in the states a new form of sports are becoming a popular form of recruitment and scholarship. eSports is growing at an increasing rate to which introduces more players and makes gaming more accepting into the society. The market shows a trend that closely resembles the NBA at a smaller scale.
 
 ![eSports](images/ESPORTSMARKET.png)
-![NBA](images/NBA REVENUE.png)
+![NBA](images/NBA.png)
 
 This increase in market is largely due to the rising audience in the eSports competitions. This graph shows a comparison of the Super Bowl, League of Legends Worlds Championship Finals, and the US Open Finals.
 
@@ -50,7 +50,7 @@ This increase in market is largely due to the rising audience in the eSports com
 
 Here we can take a closer look at the LoL WC Finals with a linear regression model.
 
-![lrm](images/lMod LOLW.png)
+![lrm](images/lMod.png)
 
 This is the summary output:
 
