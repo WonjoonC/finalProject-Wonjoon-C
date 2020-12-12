@@ -4,7 +4,7 @@ Wonjoon Cho
 ##### Date :
 11 Dec 2020
 
-# Title : Inside look of the Gaming Culture in the United States and South Korea
+# Inside Look into LoL in America and Korea
 
 ### Introduction
 
