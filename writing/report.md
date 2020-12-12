@@ -88,5 +88,6 @@ Huhh, J. (2008). Culture and Business of PC Bangs in Korea. Games and Culture, 3
 
 Howard, Matthew Jungsuk. “ESPORT: PROFESSIONAL LEAGUE OF LEGENDS AS CULTURAL HISTORY.” University of Houston, 2018.
 
+Data collected from Wikipedia, Kaggle, Newzoo, and Statistica.
 
 (Did you remember to add your name(s) to the top of this document?)
