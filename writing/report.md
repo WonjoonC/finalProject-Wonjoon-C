@@ -2,10 +2,9 @@
 Wonjoon Cho
 
 ##### Date :
-20 Nov 2020
+11 Dec 2020
 
-##### Title :
-Inside look of the Gaming Culture in the United States and South Korea
+# Title : Inside look of the Gaming Culture in the United States and South Korea
 
 ### Introduction
 
