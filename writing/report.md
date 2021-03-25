@@ -4,7 +4,7 @@ Wonjoon Cho
 ##### Date :
 11 Dec 2020
 
-# Inside Look into LoL in America and Korea
+# Dominating Rift Between American and Korean League of Legends Teams
 
 ### Introduction
 
