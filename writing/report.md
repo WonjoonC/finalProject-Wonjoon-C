@@ -4,7 +4,7 @@ Wonjoon Cho
 ##### Date :
 11 Dec 2020
 
-# Inside Look into LoL in America and Korea
+# Dominating Rift Between American and Korean League of Legends Teams
 
 ### Introduction
 
@@ -100,4 +100,3 @@ Howard, Matthew Jungsuk. “ESPORT: PROFESSIONAL LEAGUE OF LEGENDS AS CULTURAL H
 
 Data collected from Wikipedia, Kaggle, Newzoo, and Statistica
 
-(Did you remember to add your name(s) to the top of this document?)
