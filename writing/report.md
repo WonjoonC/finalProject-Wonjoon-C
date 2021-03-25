@@ -1,4 +1,4 @@
-##### Name(s) :
+##### Name:
 Wonjoon Cho
 
 ##### Date :
