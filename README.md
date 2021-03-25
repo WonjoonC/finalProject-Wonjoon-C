@@ -16,12 +16,12 @@ Gaming culture in the United States is much different than the gaming culture in
 
 The four main regions in League of Legends are South Korea, China, Europe, and North America. Eastern regions usually out perform western regions by a large margin. South Korea has had a history of being a dominating region when it came to League of Legends. Besides the first season, South Korea has placed top 4 in every World Championship, and won 6 out of the 10 seasons. This bar chart shows what each region accomplished in the League of Legends World Championship from 2011-2020. **Note: PCS (Pacific Championship Series) = South-East Asia, LPL (League of Legends Pro League)= China, LEC (League of Legends European Championship)= Europe, LCS (League Championship Series) = North America, LCL (League of Legends Continental League)= Russia, LCK (League of Legends Champions Korea)= South Korea**
 
-![LoL Worlds Placement](images/LWP.png)
+![LoL Worlds Placement](writing//LWP.png)
 
 LCK teams had nearly five times more placements than the LCS teams. In fact, LCS teams have never placed higher than third place. Furthermore, whenever an LCS team played against an LCK team in international scene, it was clear to see who were the favorites. These matches are gathered from Intel Extreme Masters (IEC), Mid-Season Invitational(MSI), and LoL World Championship(LWC) from years 2014-2017.
 
-![LCK Results](images/LCKResult.png)
-![LCS Results](images/LCSResult.png)
+![LCK Results](writing//LCKResult.png)
+![LCS Results](writing//LCSResult.png)
 
 
 ### The Mess That is North America
@@ -36,7 +36,7 @@ This set up for 2020 World Championship which had left North American fans embar
 
 So the obvious question is why is South Korean teams out performing North American teams? Firstly, there is a sheer difference when it comes to amount of players in America (2.2m) and Korea (4.8m). These numbers don't show the amount of players in the game, but only the ones that is ranked.
 
-![NA v LCK Tier](images/Tier.png)
+![NA v LCK Tier](writing//Tier.png)
 
 With a higher player base, it allows there to be a more competitive scene in the higher ranks. In League of Legends, a person with an account level of at least 30 is qualified to play ranked games. They must play at least 20 games to be most likely placed between Iron and Gold Tier. Afterwards, they can play ranked games to gain League Points(LP) to rank up. In higher ranking, like Masters, Grandmasters, and Challenger, things become more challenging. After Diamond 1, you must gain a certain amount of LP to join the Master tier. From there, the top 10 players of Masters are promoted to Grandmasters and the bottom 10 players of Grandmasters are demoted to Masters once every two weeks. The same concept goes for Challenger. In Korea and America there can only be 300 players in Challenger, and 700 people in Grandmasters. Since Korea more than doubles the amount of players than America, it can be assumed that the competition is much better for the Eastern country.
 
@@ -51,16 +51,16 @@ A key difference between America and Korea that also widen's the skill gap are U
 
 However, in the states a new form of sports are becoming a popular form of recruitment and scholarship. eSports is growing at an increasing rate to which introduces more players and makes gaming more accepting into the society. The market shows a trend that closely resembles the NBA at a smaller scale.
 
-![eSports](images/ESPORTSMARKET.png)
-![NBA](images/NBA.png)
+![eSports](writing//ESPORTSMARKET.png)
+![NBA](writing//NBA.png)
 
 This increase in market is largely due to the rising audience in the eSports competitions. This graph shows a comparison of the Super Bowl, League of Legends Worlds Championship Finals, and the US Open Finals.
 
-![Viewership](images/Viewership.png)
+![Viewership](writing//Viewership.png)
 
 Here we can take a closer look at the LoL WC Finals with a linear regression model.
 
-![lrm](images/lMod.png)
+![lrm](writing//lMod.png)
 
 This is the summary output:
 
